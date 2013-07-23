@@ -1,0 +1,30 @@
+{
+  "name": "restful-cache",
+  "description": "Simple in-memory cache for RESTful requests of express+passport",
+  "author": {
+    "name": "Jollen Chen",
+    "email": "jollen@jollen.org"
+  },
+  "url": "https://github.com/jollen/restful-cache",
+  "keywords": [
+    "cache",
+    "restful"
+  ],
+  "main": "./index.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jollen/restful-cache.git"
+  },
+  "readme": "# node-cache\n\nA simple RESTful response in-memory cache. Require Passport and Expressjs request.\n\n## Installation\n\n    npm install restful-memcache\n\n## Usage\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jollen/restful-cache/issues"
+  },
+  "_id": "restful-cache@0.0.1",
+  "dist": {
+    "shasum": "92504d92188b9435fb7c69502bdd39f28cc6dcef"
+  },
+  "_from": "restful-cache@*",
+  "_resolved": "https://registry.npmjs.org/restful-cache/-/restful-cache-0.0.1.tgz"
+}
